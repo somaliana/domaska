@@ -8,21 +8,33 @@ h1 {
 ol {
     text-align:left;
 }
-div {
-    background-color: grey;
-    height: 1000px;
-    margin: 0 100px 100px 100px;
+.container {
+    background-color: #ffffff;
+    height: 100%;
+    width: 700px;
+    margin: 0 auto;
     text-align: center;
+    
+
+
     
 }
 p {
     color:red;
+    text-align: center;
 }
 body {
-    background-color: black;
+    background-color: #dddddd;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+
+
 
 }
 img {
     width:500px;
     
+    
+
 }
