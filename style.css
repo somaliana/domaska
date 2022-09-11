@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    
+    color: red;
+
+
+}
+ol {
+    text-align:left;
+}
+div {
+    background-color: grey;
+    height: 1000px;
+    margin: 0 100px 100px 100px;
+    text-align: center;
+    
+}
+p {
+    color:red;
+}
+body {
+    background-color: black;
+
+}
+img {
+    width:500px;
+    
+}
